@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ButtonPlay()
+comment0.text=\r\n\ Constructor\ ButtonPlay\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ Al\ hacer\ clic\ en\ el\ objeto\ se\ inicia\ el\ juego\ en\ el\ nivel1\r\n
+comment2.params=
+comment2.target=void\ mouseSobreBoton()
+numComments=3

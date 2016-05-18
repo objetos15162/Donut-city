@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Help()
+comment0.text=\r\n\ Constructor\ de\ Ayuda.\r\n\ Se\ especifica\ la\ posici\u00F3n\ de\ los\ botones\ "Regresar"\ y\ "Siguiente"\r\n\ Al\ presionar\ 'Siguiente'\ se\ manda\ al\ mundo\ 'Ayuda2'\r\n\ Al\ presionar\ 'Regresar'\ se\ manda\ al\ mundo\ 'Menu'\r\n\ \r\n
+numComments=1

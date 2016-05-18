@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=obS2(int)
+comment0.text=\r\n\ El\ constructor\ recibe\ como\ parametro\ el\ n\u00FAmero\ de\ nivel\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ movObje()
+numComments=3

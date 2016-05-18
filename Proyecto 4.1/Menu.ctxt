@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment0.text=\r\n\ Constructor\ de\ clase\ Menu.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ Prepara\ el\ escenario\ del\ juego,\ en\ este\ caso\ los\ botones\ (las\ opciones)\ del\ \r\n\ juego,\ las\ cuales\ son\:\ "Play",\ "Help",\ "Records",\ "Exit"\r\n
+numComments=2

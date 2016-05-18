@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=value\ fontSize
+comment0.target=Label(int,\ int)
+comment0.text=\r\n\ Create\ a\ new\ label,\ initialise\ it\ with\ the\ int\ value\ to\ be\ shown\ and\ the\ font\ size\ \r\n
+comment1.params=value\ fontSize
+comment1.target=Label(java.lang.String,\ int)
+comment1.text=\r\n\ Create\ a\ new\ label,\ initialise\ it\ with\ the\ needed\ text\ and\ the\ font\ size\ \r\n
+comment2.params=value
+comment2.target=void\ setValue(java.lang.String)
+comment2.text=\r\n\ Sets\ the\ value\ \ as\ text\r\n\ \r\n\ @param\ value\ the\ text\ to\ be\ show\r\n
+comment3.params=value
+comment3.target=void\ setValue(int)
+comment3.text=\r\n\ Sets\ the\ value\ as\ integer\r\n\ \r\n\ @param\ value\ the\ value\ to\ be\ show\r\n
+comment4.params=lineColor
+comment4.target=void\ setLineColor(java.awt.Color)
+comment4.text=\r\n\ Sets\ the\ line\ color\ of\ the\ text\r\n\ \r\n\ @param\ lineColor\ the\ line\ color\ of\ the\ text\r\n
+comment5.params=fillColor
+comment5.target=void\ setFillColor(java.awt.Color)
+comment5.text=\r\n\ Sets\ the\ fill\ color\ of\ the\ text\r\n\ \r\n\ @param\ fillColor\ the\ fill\ color\ of\ the\ text\r\n
+comment6.params=
+comment6.target=void\ updateImage()
+comment6.text=\r\n\ Update\ the\ image\ on\ screen\ to\ show\ the\ current\ value.\r\n
+numComments=7

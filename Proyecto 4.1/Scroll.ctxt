@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nivel
+comment0.target=Scroll(int)
+comment0.text=\r\n\ Constructor\ Scroll,\ recibe\ el\ n\u00FAmero\ de\ nivel\ \r\n
+comment1.params=
+comment1.target=void\ movObje()
+comment2.params=
+comment2.target=void\ verifica()
+comment2.text=\r\n
+numComments=3

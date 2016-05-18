@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Poli1()
+comment0.text=\r\n\ Constructor\ de\ Poli1\r\n\ Por\ medio\ de\ un\ try\ intenta\ inicializar\ las\ variables\ tipo\ GreenfootImage\r\n\ y\ muestra\ la\ imagen\ 1\r\n\ De\ no\ se\ posible\ abrir\ la\ imagen,\ por\ medio\ de\ catch\r\n\ se\ atrapar\u00E1\ la\ excepci\u00F3n\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\nAct\ intercambia\ las\ imagenes\ para\ dar\ la\ apariencia\ de\ movimiento\r\n
+numComments=2

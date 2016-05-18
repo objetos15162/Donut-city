@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ButtonNext()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ ButtonNext\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ El\ m\u00E9todo\ act()\ \r\n\ Al\ hacer\ clic\ al\ objeto,\ se\ cambia\ al\ mundo\ "Ayuda2"\r\n
+comment2.params=
+comment2.target=void\ mouseSobreBoton()
+numComments=3
