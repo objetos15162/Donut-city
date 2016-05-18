@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Life
+comment0.text=\r\n\ Clase\ vida-\ Representa\ la\ salud\ del\ jugador\ (taco)\r\n\ La\ cual\ al\ hacer\ contacto\ con\ alg\u00FAn\ objeto\ de\ la\ clase\r\n\ 'Obstaculo'\ o\ 'Policia'\ disminuye\r\n\ Y\ al\ hacer\ contacto\ con\ alg\u00FAn\ objeto\ de\ la\ clase\ 'Bonus'\ aumenta\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ \r\n\ @author\ Cecilia\ Vazquez\r\n\ @version\ Versi\u00F3n\ 4.0\ /\ Mayo\ 2016\r\n
+comment1.params=
+comment1.target=Life()
+comment1.text=\r\nContructor\ de\ Vida,\ se\ inicializa\ la\ variable\r\n'vida'\ la\ cual\ representa\ visualmente\ la\ salud\ del\ jugador\r\n
+comment2.params=damage\ life
+comment2.target=boolean\ disminuyeVida(int,\ greenfoot.GreenfootImage)
+comment2.text=\r\n\ Reduce\ la\ vida\ del\ Jugador\r\n\ El\ ancho\ de\ la\ figura\ cambia\ y\ adem\u00E1s\ cambia\ su\ color\r\n\ \r\n\ @param\ \ damage\ valor\ del\ da\u00F1o\ recibido\r\n\ @param\ \ life,\ imagen\ acutal\r\n\ \r\n\ @return\ Devuelve\ true\ si\ disminuyo,\ false\ sino\r\n
+comment3.params=inc\ life
+comment3.target=boolean\ incrementaVida(int,\ greenfoot.GreenfootImage)
+comment3.text=\r\n\ Aumenta\ la\ vida(ancho)\ del\ rectangulo\ \r\n\ \r\n\ @param\ inc\ el\ valor\ de\ lo\ que\ aumentara\r\n\ @param\ life\ la\ imagen\ actual(Rectangulo)\ que\ representa\ la\ vida\r\n\ \r\n\ @return\ Devuelve\ 'true'\ si\ se\ aumento,\ y\ 'false'\ si\ no\r\n
+comment4.params=damage\ life
+comment4.target=boolean\ ancho(int,\ greenfoot.GreenfootImage)
+comment4.text=\r\n\ Indica\ si\ el\ da\u00F1o\ es\ mayor\ al\ ancho\ de\ la\ imagen\r\n\ \r\n\ @param\ damage\ valor\ del\ da\u00F1o\ recibido\r\n\ @param\ life\ imagen\ actual\ (Rectangulo)\ que\ representa\ la\ salud\ del\ jugador\r\n\ \r\n\ @return\ Devuelve\ un\ true\ en\ caso\ que\ si\ sea\ mayor\ \r\n\ y\ un\ false\ en\ caso\ contrario\r\n
+comment5.params=inc\ life
+comment5.target=boolean\ limite(int,\ greenfoot.GreenfootImage)
+comment5.text=\r\n\ Indica\ si\ ya\ no\ se\ puede\ aumentar\ mas\ a\ la\ vida\ puesto\ que\ llego\ \r\n\ a\ su\ m\u00E1ximo\r\n\ \r\n\ @param\ inc\ valor\ del\ incremento\ recibido\r\n\ @param\ life\ la\ imagen\ actual\ (Rectangulo)\ que\ representa\ la\ vida\r\n\ \r\n\ @return\ Devuelve\ un\ true\ si\ esta\ en\ el\ tope\ y\ un\ false\ en\ su\ caso\ contrario\r\n
+numComments=6
