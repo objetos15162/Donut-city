@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Obstaculo
+comment0.text=\r\nClase\ obstaculo,\ se\ encarga\ de\ evitar\ que\ el\ jugador\ llegue\ a\ la\ meta\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ y\ Cecilia\ Vazquez\r\n\ @version\ Versi\u00F3n\ 2.0\ /\ Abril\ 2016\r\n
+comment1.params=numObstaculo
+comment1.target=Obstaculo(int)
+comment1.text=\r\n\ Contructor\ de\ la\ clase\ obstaculo.\r\n\ \ Con\ un\ try\ se\ cargan\ las\ imagenes\ correspodientes\ a\ los\ enemigos\ \r\n\ en\ caso\ de\ que\ ocurriera\ una\ excepci\u00F3n\ manda\ un\ mensaje\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Comportamiento\ del\ obstaculo\r\n
+comment3.params=
+comment3.target=void\ verificaPiso()
+numComments=4

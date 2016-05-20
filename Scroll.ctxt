@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scroll
+comment0.text=\r\nEsta\ clase\ se\ encarga\ del\ movimiento\ independiente\ de\ los\ objetos\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ /\ Cecilia\ Vazquez\r\n\ @version\ 2.0\ //\ 26\ Abril\ 2016\r\n
+comment1.params=nivel\ imageNum
+comment1.target=Scroll(int,\ int)
+comment1.text=\r\n\ Constructor\ Scroll,\ recibe\ el\ n\u00FAmero\ de\ nivel\ \r\n\ @param\ nivel\ numero\ de\ nivel\ del\ juego\ (de\ uno\ a\ tres)\r\n\ @param\ imageNum\ n\u00FAmero\ de\ objeto\ a\ pintar\r\n
+comment2.params=
+comment2.target=void\ movObje()
+comment2.text=\r\n\ Clase\ abstracta\ que\ controla\ el\ movimiento\ de\ los\ objetos\ del\ escenario\r\n
+comment3.params=
+comment3.target=void\ verifica()
+comment3.text=\r\n\ Corrobora\ la\ posici\u00F3n\ en\ x\ \r\n
+numComments=4
