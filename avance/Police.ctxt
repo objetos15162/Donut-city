@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Police
+comment0.text=\r\n\ Esta\ clase\ se\ encarga\ del\ comportamiento\ de\ los\ policias.\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ y\ Cecilia\ Vazquez\r\n\ @version\ Versi\u00F3n\ 2.0\ /\ Abril\ 2016\r\n
+comment1.params=numPolice
+comment1.target=Police(int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Policias\r\n\ Con\ un\ try\ se\ cargan\ las\ imagenes\ correspodientes\ a\ los\ enemigos\ \r\n\ en\ caso\ de\ que\ ocurriera\ una\ excepci\u00F3n\ manda\ un\ mensaje\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=Comportamiento\ de\ police
+comment3.params=
+comment3.target=void\ actPoliceOne()
+comment3.text=\r\n\ Esta\ clase\ se\ encarga\ de\ intercalar\ las\ imagenes\ del\ policia\ uno\r\n
+comment4.params=
+comment4.target=void\ actPoliceTwo()
+comment4.text=\r\n\ Esta\ clase\ se\ encarga\ de\ intercalar\ las\ imagenes\ del\ policia\ dos\r\n
+numComments=5

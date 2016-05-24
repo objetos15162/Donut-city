@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Nivel2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nivel2\ here.\r\n\ \r\n\r\n
+comment1.params=
+comment1.target=Nivel2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Nivel2.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ En\ este\ m\u00E9todo\ corre\ el\ tiempo\ del\ timer\r\n\ Controla\ la\ aparicion\ de\ bonus\ y\ enemigos\ en\ cierto\ tiempo\r\n
+comment3.params=
+comment3.target=Counter\ getpuntos()
+comment3.text=\r\n\ Regresa\ el\ valor\ de\ los\ puntos\r\n
+comment4.params=
+comment4.target=Counter\ getLifes()
+comment4.text=\r\n\ Regresa\ el\ valor\ de\ las\ vidas\r\n
+comment5.params=
+comment5.target=int\ getNivel()
+comment5.text=\r\n\ \ \ \ \ \ \ @return\ nivel\r\n
+numComments=6

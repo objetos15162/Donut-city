@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ButtonPlay
+comment0.text=\r\n\ Clase\ ButtonPlay,\ es\ un\ bot\u00F3n\ para\ indicar\ cuando\ debe\ inicial\ el\ juego\r\n\ \r\n@author\ Sandra\ Garc\u00EDa\ y\ Cecilia\ Vazquez\r\n@version\ Versi\u00F3n\ 2.0\ /\ Abril\ 2016\r\n
+comment1.params=
+comment1.target=ButtonPlay()
+comment1.text=\r\n\ Constructor\ ButtonPlay\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Al\ hacer\ clic\ en\ el\ objeto\ se\ inicia\ el\ juego\ en\ el\ nivel1\r\n
+comment3.params=
+comment3.target=void\ mouseSobreBoton()
+numComments=4

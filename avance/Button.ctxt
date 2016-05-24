@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Clase\ abstracta\ que\ guarda\ el\ m\u00E9todo\ de\ 'mouseSobreBoton',\ el\ cual\r\n\ actua\ diferente\ para\ cada\ cla\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\r\n\ @author\ Cecilia\ Vazquez\r\n\ @version\ Mayo\ 2016\r\n
+comment1.params=
+comment1.target=void\ mouseSobreBoton()
+comment1.text=Cuando\ se\ coloque\ el\ mouse\ en\ el\ objeto,\ se\ cambiar\u00E1\r\n\ \ \ \ \ \ \ de\ imagen\ para\ que\ el\ usuario\ sepa\ la\ opci\u00F3n\ que\ est\u00E1\ por\ \r\nhabilitar
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Help
+comment0.text=\r\n\ Esta\ clase\ incluye\ la\ historia\ del\ juego\ 'Donut\ City'\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ y\ Cecilia\ Vazquez\r\n\ @version\ Versi\u00F3n\ 2.0\ /\ Abril\ 2016\r\n
+comment1.params=
+comment1.target=Help()
+comment1.text=\r\n\ Constructor\ de\ Ayuda.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ El\ metodo\ de\ act\ cambia\ el\ fondo\ de\ la\ clase\ help\ cada\ cierto\ tiempo\ y\ regresa\ al\ menu\r\n
+numComments=3
