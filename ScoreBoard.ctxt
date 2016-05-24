@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ An\ actor\ class\ that\ can\ display\ a\ scoreboard,\ using\ Greenfoot's\r\n\ UserInfo\ class.\ \ \r\n\ \r\n\ You\ typically\ use\ this\ by\ including\ some\ code\ into\ the\ world\ for\ when\ your\ game\ ends\:\r\n\ \r\n\ <pre>\r\n\ \ \ addObject(new\ ScoreBoard(800,\ 600),\ getWidth()\ /\ 2,\ getHeight()\ /\ 2);\ \r\n\ </pre>\r\n\ \r\n\ Where\ 800\ by\ 600\ should\ be\ replaced\ by\ the\ desired\ size\ of\ the\ score\ board.\ \r\n\ \r\n\ @author\ Neil\ Brown\ \r\n\ @version\ 1.0\r\n
+comment1.params=width\ height
+comment1.target=ScoreBoard(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ScoreBoard.\r\n\ <p>\r\n\ You\ can\ specify\ the\ width\ and\ height\ that\ the\ score\ board\ should\ be,\ but\r\n\ a\ minimum\ width\ of\ 600\ will\ be\ enforced.\r\n
+comment2.params=text\ x\ y\ color\ height
+comment2.target=void\ drawString(java.lang.String,\ int,\ int,\ java.awt.Color,\ int)
+comment3.params=
+comment3.target=void\ drawScores()
+comment4.params=left\ top\ right\ bottom\ users
+comment4.target=void\ drawUserPanel(int,\ int,\ int,\ int,\ java.util.List)
+numComments=5

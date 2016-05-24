@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Men\u00FA\ principal,\ indica\ todas\ las\ opciones\ del\ juego\ \ \r\n\ @author\ Sandra\ Garc\u00EDa\ y\ Cecilia\ Vazquez\r\n\ @version\ Versi\u00F3n\ 2.0\ /\ Abril\ 2016\r\n\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\r\n\ Constructor\ de\ clase\ Menu.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepara\ el\ escenario\ del\ juego,\ en\ este\ caso\ los\ botones\ (las\ opciones)\ del\ \r\n\ juego,\ las\ cuales\ son\:\ "Play",\ "Help",\ "Records",\ "Exit"\r\n
+numComments=3

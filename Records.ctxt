@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Records
+comment0.text=\r\n\ Clase\ Records,\ las\ cual\ muestra\ los\ mejores\ puntajes\ obtenidos\ en\ el\ juego\r\n\ con\ base\ a\ el\ tiempo\ y\ puntos\ obtenidos\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ y\ Cecilia\ Vazquez\r\n\ @version\ Versi\u00F3n\ 2.0\ /\ Abril\ 2016\r\n
+comment1.params=
+comment1.target=Records()
+comment1.text=\r\n\ Constructor\ de\ Records.\r\n\ Inicializa\ records.\r\n
+numComments=2

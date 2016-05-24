@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nivel1
+comment0.text=\r\n\ Mundo\ correspondiente\ al\ nivel\ 1\ del\ juego\r\n\ \r\n\ @author\ Sandra\ Garc\u00EDa\ y\ Cecilia\ Vazquez\r\n\ @version\ Versi\u00F3n\ 2.0\ /\ Abril\ 2016\r\n
+comment1.params=
+comment1.target=Nivel1()
+comment1.text=\r\n\ Constructor\ de\ clase\ Nivel1.\r\n\ Se\ inicializan\ las\ variables\ \ y\ se\ a\u00F1aden\ los\ objetos\ \ que\ forman\ parte\ del\r\n\ nivel\ como\ las\ nubes,\ flores,\ enemigos\ (policias\ donas)\ y\ jugador.\r\n\ Tambi\u00E9n\ se\ a\u00F1ade\ el\ nombre\ del\ jugador\ y\ el\ tiempo.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ En\ este\ m\u00E9todo\ corre\ el\ tiempo\ del\ timer\r\n
+comment3.params=
+comment3.target=int\ getNivel()
+comment3.text=\r\n\ Este\ m\u00E9todo\ regresa\ el\ n\u00FAmero\ de\ nivel\ del\ juego\r\n\ @return\ nivel,\ valor\ entero\ que\ inidica\ en\ que\ nivel\ se\ encuentra\ el\ \r\n\ jugador,\ inicialmente\ vale\ 1\r\n
+numComments=4
